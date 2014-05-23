@@ -1,6 +1,6 @@
 {
   "name": "miles",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "file builder for saito tasks",
   "main": "index.js",
   "scripts": {
